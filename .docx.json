@@ -4,7 +4,6 @@
         "src/Controllers/Auth.controllers.ts": ["/documentations/controllers/authControllers.md"],
         "src/Controllers/Shop.controllers.ts": ["/documentations/controllers/shopControllers.md"],
         "src/Modules": ["/documentations/modules.md"],
-        "src/Modules": ["/documentations/modules.md"],
         "src/Utils/dates.ts": ["/documentations/utils/dates.md"]
     }
 }
