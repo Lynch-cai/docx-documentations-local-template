@@ -1,9 +1,9 @@
 {
     "associations": {
-        "src/Controllers": ["/documentations/controllers/controllers.md"],
-        "src/Controllers/Auth.controllers.ts": ["/documentations/controllers/authControllers.md"],
-        "src/Controllers/Shop.controllers.ts": ["/documentations/controllers/shopControllers.md"],
-        "src/Modules": ["/documentations/modules.md"],
-        "src/Utils/dates.ts": ["/documentations/utils/dates.md"]
+        "src/Controllers": ["documentations/controllers/controllers.md"],
+        "src/Controllers/Auth.controller.ts": ["documentations/controllers/authControllers.md"],
+        "src/Controllers/Shop.controller.ts": ["documentations/controllers/shopControllers.md"],
+        "src/Modules": ["documentations/modules.md"],
+        "src/Utils/dates.ts": ["documentations/utils/dates.md"]
     }
 }
