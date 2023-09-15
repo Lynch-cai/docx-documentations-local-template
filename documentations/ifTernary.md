@@ -1,1 +1,1 @@
-test public if ternary
+test local if ternary

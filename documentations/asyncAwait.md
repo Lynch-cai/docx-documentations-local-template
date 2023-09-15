@@ -1,1 +1,1 @@
-test public async await
+test local async await
