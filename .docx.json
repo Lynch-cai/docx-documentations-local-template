@@ -1,0 +1,16 @@
+{
+    "providers": {
+        "github": [
+            {
+                "repository": "https://github.com/Lynch-cai/docx-documentations-public",
+                "token": ""
+            }
+        ]
+    },
+    "associations": {
+        "src": ["/documentations/ifTernary.md", "/documentations/asyncAwait.md"],
+        "src/Controllers": ["/documentations/controllers.md"],
+        "src/Modules": ["/documentations/modules.md"],
+        "src/Utils/dates.ts": ["/documentations/utils/dates.md"]
+    }
+}
